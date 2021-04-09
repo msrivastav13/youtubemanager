@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>ExternalKey__c</fullName>
+    <caseSensitive>false</caseSensitive>
+    <description>This is an external key for integration purposes</description>
+    <externalId>true</externalId>
+    <label>ExternalKey</label>
+    <length>100</length>
+    <required>true</required>
+    <trackHistory>false</trackHistory>
+    <trackTrending>false</trackTrending>
+    <type>Text</type>
+    <unique>true</unique>
+</CustomField>
